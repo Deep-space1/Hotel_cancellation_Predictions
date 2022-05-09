@@ -1,6 +1,6 @@
 # Hotel_cancellation_Predictions
 
-## This repository is based on a Hotel Cancellation Prediction using multiple machine learning models from python libraries
+## This repository is based on Hotel Booking Cancellation Predictions using multiple machine learning models libraries of python.
 
 
 ![image](https://user-images.githubusercontent.com/86626839/164754431-406c228b-2360-4c6e-b24b-c6066101f5d3.png)
